@@ -118,7 +118,7 @@ Register it in `steam_bot/games/__init__.py`. See `stardew.py` for the full inte
 Pre-built images are published to GitHub Container Registry on every push to `main`:
 
 ```bash
-docker pull ghcr.io/hbermudez/telegram-steam-bot:main
+docker pull ghcr.io/hbermu/telegram-steam-bot:main
 ```
 
 ## License
